@@ -1,5 +1,6 @@
 # PSFD_code
 
+（The code will continue to be organised as well as improved, and the full code will be open-sourced after acceptance of the paper.）
 ## Description of the document
 
 PSFD-T.py and PSFD-U: Generate corresponding adversarial samples and adjust the noise size by adjusting epsilon.
